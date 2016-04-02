@@ -5,10 +5,13 @@
   "devDependencies": {
     "budo": "^8.1.0",
     "ctx-circle": "^1.0.0",
+    "ctx-render-grid-lines": "^1.0.0",
     "ctx-translate-center": "^1.0.0",
     "fc": "^1.5.2"
   },
   "dependencies": {
-    "box-intersect": "^1.0.1"
+    "box-intersect": "^1.0.1",
+    "point-in-big-polygon": "^2.0.0",
+    "pslg-to-poly": "^1.0.0"
   }
 }
